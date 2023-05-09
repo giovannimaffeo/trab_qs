@@ -9,5 +9,5 @@ O tema do projeto é criar um processo BPMN para automatizar o pedido de pizzas 
 - Ananias Machado (@ananiasmachado)
 - Giovanni Maffeo (@giovannimaffeo)
 - Igor Godinho (@iggodinho)
-- Patrick (@ptk-trindade)
+- Patrick Trindade (@ptk-trindade)
 - Pedro Siqueira (@pedrosiqueira1)
