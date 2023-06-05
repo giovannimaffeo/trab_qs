@@ -14,5 +14,5 @@ O tema do projeto é criar um processo BPMN para automatizar o pedido de pizzas 
 
 ## Documentos
 
-Product Backlog: https://docs.google.com/spreadsheets/d/1R8KWHXpqpV-tEmPYuoDz0IGqCoGJq_1biMGbcY6Hn_k/edit?usp=sharing
-Documento de Visão: 
+- Product Backlog: https://docs.google.com/spreadsheets/d/1R8KWHXpqpV-tEmPYuoDz0IGqCoGJq_1biMGbcY6Hn_k/edit?usp=sharing
+- Documento de Visão: https://docs.google.com/document/d/1cvL6Rwsxiew0GUSOBO_n3VJOtrOs7dXO/edit?usp=sharing&ouid=107069033022955739846&rtpof=true&sd=true
