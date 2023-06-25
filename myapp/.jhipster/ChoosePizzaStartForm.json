@@ -1,0 +1,29 @@
+{
+    "fields": [
+      {
+        "fieldName": "customerName",
+        "fieldType": "String"
+      },
+      {
+        "fieldName": "customerAddress",
+        "fieldType": "String"
+      },
+      {
+        "fieldName": "customerPhone",
+        "fieldType": "String"
+      }
+    ],
+    "relationships": [],
+    "entityType": "start-form",
+    "processBpmnId": "PizzaFlowProcess",
+    "processEntityName": "ChoosePizzaProcess",
+    "domainEntityName": "ChoosePizza",
+    "service": "serviceClass",
+    "dto": "mapstruct",
+    "jpaMetamodelFiltering": false,
+    "readOnly": false,
+    "pagination": "no",
+    "name": "ChoosePizzaStartForm",
+    "changelogDate": "20230518000001",
+    "skipFakeData": true
+  }

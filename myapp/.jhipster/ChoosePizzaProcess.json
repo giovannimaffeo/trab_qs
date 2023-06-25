@@ -1,7 +1,11 @@
 {
   "fields": [
     {
-      "fieldName": "pizzaType",
+      "fieldName": "pizzaType1",
+      "fieldType": "String"
+    },
+     {
+      "fieldName": "pizzaType2",
       "fieldType": "String"
     },
     {

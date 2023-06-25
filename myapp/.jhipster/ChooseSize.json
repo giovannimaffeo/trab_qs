@@ -1,0 +1,37 @@
+{
+    "fields": [
+        {
+            "fieldName": "customerName",
+            "fieldType": "String",
+            "fieldReadOnly": true
+          },
+          {
+            "fieldName": "customerAddress",
+            "fieldType": "String",
+            "fieldReadOnly": true
+          },
+          {
+            "fieldName": "customerPhone",
+            "fieldType": "String",
+            "fieldReadOnly": true
+          },
+          {
+            "fieldName": "pizzaSize",
+            "fieldType": "String"
+          }
+    ],
+    "relationships": [],
+    "entityType": "user-task-form",
+    "processBpmnId": "PizzaFlowProcess",
+    "processEntityName": "ChoosePizzaProcess",
+    "taskBpmnId": "ChooseSize",
+    "domainEntityName": "ChoosePizza",
+    "service": "serviceClass",
+    "dto": "mapstruct",
+    "jpaMetamodelFiltering": false,
+    "readOnly": false,
+    "pagination": "no",
+    "skipFakeData": true,
+    "name": "ChooseSize",
+    "changelogDate": "20230518000001"
+  }
