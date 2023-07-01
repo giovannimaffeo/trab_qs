@@ -1,0 +1,28 @@
+{
+  "myapp3App": {
+    "chooseSize": {
+      "home": {
+        "title": "Choose Sizes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Choose Size",
+        "createOrEditLabel": "Create or edit a Choose Size",
+        "notFound": "No Choose Sizes found"
+      },
+      "created": "A new Choose Size is created with identifier {{ param }}",
+      "updated": "A Choose Size is updated with identifier {{ param }}",
+      "deleted": "A Choose Size is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Choose Size {{ id }}?"
+      },
+      "detail": {
+        "title": "Choose Size"
+      },
+      "id": "ID",
+      "customerName": "Customer Name",
+      "customerAddress": "Customer Address",
+      "customerPhone": "Customer Phone",
+      "customerEmail": "Customer Email",
+      "pizzaSize": "Pizza Size"
+    }
+  }
+}

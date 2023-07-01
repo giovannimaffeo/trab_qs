@@ -1,0 +1,23 @@
+{
+  "myapp3App": {
+    "choosePizza": {
+      "home": {
+        "title": "Choose Pizzas",
+        "refreshListLabel": "Refresh list",
+        "notFound": "No Choose Pizzas found"
+      },
+      "detail": {
+        "title": "Choose Pizza"
+      },
+      "id": "ID",
+      "pizzaType1": "Pizza Type 1",
+      "pizzaType2": "Pizza Type 2",
+      "pizzaSize": "Pizza Size",
+      "customerName": "Customer Name",
+      "customerAddress": "Customer Address",
+      "customerPhone": "Customer Phone",
+      "customerEmail": "Customer Email",
+      "pizzaPrice": "Pizza Price"
+    }
+  }
+}

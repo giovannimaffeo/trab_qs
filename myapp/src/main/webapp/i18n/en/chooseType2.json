@@ -1,0 +1,28 @@
+{
+  "myapp3App": {
+    "chooseType2": {
+      "home": {
+        "title": "Choose Type 2 S",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Choose Type 2",
+        "createOrEditLabel": "Create or edit a Choose Type 2",
+        "notFound": "No Choose Type 2 S found"
+      },
+      "created": "A new Choose Type 2 is created with identifier {{ param }}",
+      "updated": "A Choose Type 2 is updated with identifier {{ param }}",
+      "deleted": "A Choose Type 2 is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Choose Type 2 {{ id }}?"
+      },
+      "detail": {
+        "title": "Choose Type 2"
+      },
+      "id": "ID",
+      "customerName": "Customer Name",
+      "customerAddress": "Customer Address",
+      "customerPhone": "Customer Phone",
+      "customerEmail": "Customer Email",
+      "pizzaType2": "Pizza Type 2"
+    }
+  }
+}

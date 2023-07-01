@@ -1,0 +1,27 @@
+{
+  "myapp3App": {
+    "choosePizzaStartForm": {
+      "home": {
+        "title": "Choose Pizza Start Forms",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Choose Pizza Start Form",
+        "createOrEditLabel": "Create or edit a Choose Pizza Start Form",
+        "notFound": "No Choose Pizza Start Forms found"
+      },
+      "created": "A new Choose Pizza Start Form is created with identifier {{ param }}",
+      "updated": "A Choose Pizza Start Form is updated with identifier {{ param }}",
+      "deleted": "A Choose Pizza Start Form is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Choose Pizza Start Form {{ id }}?"
+      },
+      "detail": {
+        "title": "Choose Pizza Start Form"
+      },
+      "id": "ID",
+      "customerName": "Customer Name",
+      "customerAddress": "Customer Address",
+      "customerPhone": "Customer Phone",
+      "customerEmail": "Customer Email"
+    }
+  }
+}
